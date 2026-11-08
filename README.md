@@ -1,4 +1,4 @@
-﻿# ?릫 Mini Snake Game
+﻿# 🐍 Mini Snake Game
 
 A modern, responsive Snake game built with plain HTML, CSS, and JavaScript. It has no dependencies and no build step.
 
@@ -35,9 +35,9 @@ python -m http.server 8000
 ## Project Structure
 ```
 mini-snake-game/
-?쒋?? index.html   # Markup
-?쒋?? style.css    # Styles
-?쒋?? script.js    # Game logic
-?쒋?? README.md
-?붴?? .gitignore
+├── index.html   # Markup
+├── style.css    # Styles
+├── script.js    # Game logic
+├── README.md
+└── .gitignore
 ```
