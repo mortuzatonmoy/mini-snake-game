@@ -1,4 +1,4 @@
-# 🐍 Mini Snake Game
+﻿# ?릫 Mini Snake Game
 
 A modern, responsive Snake game built with plain HTML, CSS, and JavaScript. It has no dependencies and no build step.
 
@@ -14,7 +14,7 @@ A modern, responsive Snake game built with plain HTML, CSS, and JavaScript. It h
 ## How to Run
 1. Clone the repository:
    ```bash
-   git clone https://github.com/mortuzatonnoy/mini-snake-game.git
+   git clone https://github.com/mortuzatonmoy/mini-snake-game.git
    cd mini-snake-game
    ```
 2. Open `index.html` in any modern browser (double-click it).
@@ -35,9 +35,9 @@ python -m http.server 8000
 ## Project Structure
 ```
 mini-snake-game/
-├── index.html   # Markup
-├── style.css    # Styles
-├── script.js    # Game logic
-├── README.md
-└── .gitignore
+?쒋?? index.html   # Markup
+?쒋?? style.css    # Styles
+?쒋?? script.js    # Game logic
+?쒋?? README.md
+?붴?? .gitignore
 ```
